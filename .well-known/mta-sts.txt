@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: stteresaspri-essex-sch-uk0e1e.mail.protection.outlook.com
 max_age: 604800
